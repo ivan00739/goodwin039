@@ -1,0 +1,6 @@
+.image {
+    background-image: url(img/Lighthouse.jpg);
+    background-size: cover;
+    min-width: 300px;
+    min-height: 200px;
+  }
